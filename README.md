@@ -1,2 +1,2 @@
-# projeto7-instagramReact
+# projeto7-instagramreact
 Created with CodeSandbox
